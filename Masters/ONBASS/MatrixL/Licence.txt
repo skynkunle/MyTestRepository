@@ -1,0 +1,17 @@
+Matrix.xla v 2.2 Light
+by Foxes Team, 2006
+____________________
+
+This is an opensource free software.
+Disclaimer: The add-in file is provided as a courtesy to others that may find it useful. 
+It is not completely tested (beta version).
+If you find any errors, please notify us via email.
+You are free to use it but with your own responsibility.
+The author shall take no responsibility for any trouble associated with the use of this software package.
+
+Contact information_________________________________________
+
+E-mail:	leovlp@libero.it
+Web:	http://digilander.libero.it/foxes
+
+
